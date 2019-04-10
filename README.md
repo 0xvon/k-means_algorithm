@@ -24,4 +24,4 @@ plt.show()
 すると上手くクラスタリングされます
 `scikit-learn`とは使い勝手が違うので注意してください
 
-<img src="https://aidemyexstorage.blob.core.windows.net/aidemycontents/1554885576220354.png">
+<img src="./1554885576220354.png">
